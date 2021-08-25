@@ -16,6 +16,7 @@
     "5 7 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=每日签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png",
     "9 7 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=每日任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png",
     "6 7 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=领取吃货豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/elem.png",
-    "8 7 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=领取会员任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/elem.png"
+    "8 7 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=领取会员任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/elem.png",
+    "0 0 2/2 * * https://raw.githubusercontent.com/xl2101200/-/main/jztt.js, tag= 九章头条"
   ]
 }
