@@ -1,4 +1,6 @@
 # https://github.com/sunpma/mtp
+# https://raw.githubusercontent.com/sunpma/mtp/master/mtproxy.sh
+# MTProxy 一键安装脚本，带伪装
 
 #!/bin/bash
 WORKDIR=$(dirname $(readlink -f $0))
